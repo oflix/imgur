@@ -32,11 +32,11 @@ body.loading .loading-modal {
      width: 100% 
 }
  .status {
-     border-radius: 5px;
      text-align: center;
      width: 100%;
      margin-left: auto;
      margin-right: auto;
+     margin-top: 10px;
 }
  .image-url {
      width: 50%;
